@@ -1,4 +1,4 @@
-"# Meu Primeiro Repositorio" 
+"# Meu Primeiro Repositori" 
 "" 
 "Repo do exercicio 1.1 da disciplina Transformacao Digital." 
 "" 
